@@ -12,8 +12,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Full Stack Software Developer. Founder of CometX.io.' },
-      { hid: 'og:description', property: 'og:description', content: 'Full Stack Software Developer. Founder of CometX.io.' },
+      { hid: 'description', name: 'description', content: 'Full Stack Software Engineer. Founder of CometX.io.' },
+      { hid: 'og:description', property: 'og:description', content: 'Full Stack Software Engineer. Founder of CometX.io.' },
       { hid: 'og:title', property: 'og:title', content: 'Dan Beneventano – Resume' },
       { hid: 'og:image', property: 'og:image', content: 'https://resume.danbeneventano.me/headshot.jpg' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'danbeneventano.me' },
