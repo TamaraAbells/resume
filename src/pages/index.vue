@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="flex flex-col items-end col-span-4">
-        <a class="link" href="mailto:dan@cometx.io">
+        <a class="link" href="mailto:danbeneventano@gmail.com">
           <img src="~/assets/logos/envelope-solid.svg" class="w-3 h-3" alt="Email icon">
           <div class="ml-4">danbeneventano@gmail.com</div>
         </a>
@@ -56,7 +56,7 @@
               <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> uses Vue.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
             </p>
             <p class="mt-1">
-              I programmed the entire platform (frontend and backend), automated deployment, and grew a dedicated community. CometX.io is open source and the code is available on <a class="text-indigo-500 hover:underline" href="https://github.com/comet-app/cometx" target="_blank">our GitHub</a>.
+              I programmed the entire platform (frontend and backend), automated deployment, and grew a dedicated community. <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> is open source and the code is available on <a class="text-indigo-500 hover:underline" href="https://github.com/comet-app/cometx" target="_blank">our GitHub</a>.
             </p>
           </div>
         </div>
@@ -152,68 +152,68 @@
             class="relative skill"
           >
             <div class="absolute left-0 w-4 h-4 bg-black rounded-md" />
-            <img src="~/assets/logos/javascript.svg" class="z-10 w-4 h-4 rounded" alt="JavaScript/TypeScript logo">
-            <span class="ml-4 text-sm">JavaScript/TypeScript</span>
+            <img src="~/assets/logos/javascript.svg" class="z-10 rounded" alt="JavaScript/TypeScript logo">
+            <span>JavaScript/TypeScript</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/code-solid.svg" class="w-4 h-4 text-gray-700" alt="HTML/CSS icon">
-            <span class="ml-4 text-sm">HTML/CSS</span>
+            <img src="~/assets/logos/code-solid.svg" alt="HTML/CSS icon">
+            <span>HTML/CSS</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/vuejs-brands.svg" class="w-4 h-4" alt="Vue.js logo">
-            <span class="ml-4 text-sm">Vue.js</span>
+            <img src="~/assets/logos/vuejs-brands.svg" alt="Vue.js logo">
+            <span>Vue.js</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/node-js-brands.svg" class="w-4 h-4 rounded-full" alt="Node.js logo">
-            <span class="ml-4 text-sm">Node.js</span>
+            <img src="~/assets/logos/node-js-brands.svg" alt="Node.js logo">
+            <span>Node.js</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/graphql.svg" class="w-4 h-4" alt="Node.js logo">
-            <span class="ml-4 text-sm">GraphQL</span>
+            <img src="~/assets/logos/graphql.svg" alt="GraphQL logo">
+            <span>GraphQL</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/postgresql.svg" class="w-4 h-4" alt="Node.js logo">
-            <span class="ml-4 text-sm">SQL</span>
+            <img src="~/assets/logos/postgresql.svg" alt="SQL logo">
+            <span>SQL</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/git-alt-brands.svg" class="w-4 h-4" alt="Git logo">
-            <span class="ml-4 text-sm">Git</span>
+            <img src="~/assets/logos/git-alt-brands.svg" alt="Git logo">
+            <span>Git</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/docker-brands.svg" class="w-4 h-4" alt="Docker logo">
-            <span class="ml-4 text-sm">Docker</span>
+            <img src="~/assets/logos/docker-brands.svg" alt="Docker logo">
+            <span>Docker</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/linux-brands.svg" class="w-4 h-4" alt="Linux logo">
-            <span class="ml-4 text-sm">Linux</span>
+            <img src="~/assets/logos/linux-brands.svg" alt="Linux logo">
+            <span>Linux</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/java-brands.svg" class="w-4 h-4" alt="Java logo">
-            <span class="ml-4 text-sm">Java</span>
+            <img src="~/assets/logos/java-brands.svg" alt="Java logo">
+            <span>Java</span>
           </div>
           <div
             class="skill"
           >
-            <img src="~/assets/logos/kotlin.svg" class="w-4 h-4" alt="Kotlin logo">
-            <span class="ml-4 text-sm">Kotlin</span>
+            <img src="~/assets/logos/kotlin.svg" alt="Kotlin logo">
+            <span>Kotlin</span>
           </div>
         </div>
         <div
@@ -222,28 +222,28 @@
           CLUBS & HOBBIES
         </div>
         <div
-          class="hobby"
+          class="multilinehobby"
         >
-          <img src="~/assets/logos/keyboard-solid.svg" class="w-4 h-4 mt-1" alt="Association for Computing Machinery (Mines Chapter) icon">
-          <span class="ml-4 text-sm">Association for Computing Machinery (Mines Chapter)</span>
+          <img src="~/assets/logos/keyboard-solid.svg" alt="Association for Computing Machinery (Mines Chapter) icon">
+          <span>Association for Computing Machinery (Mines Chapter)</span>
         </div>
         <div
           class="hobby"
         >
-          <img src="~/assets/logos/swimmer-solid.svg" class="w-4 h-4 mt-1" alt="Club Water Polo icon">
-          <span class="ml-4 text-sm">Club Water Polo</span>
+          <img src="~/assets/logos/swimmer-solid.svg" alt="Club Water Polo icon">
+          <span>Club Water Polo</span>
         </div>
         <div
           class="hobby"
         >
-          <img src="~/assets/logos/guitar-solid.svg" class="w-4 h-4 mt-1" alt="Club Water Polo icon">
-          <span class="ml-4 text-sm">Guitar</span>
+          <img src="~/assets/logos/guitar-solid.svg" alt="Guitar icon">
+          <span>Guitar</span>
         </div>
         <div
           class="hobby"
         >
-          <img src="~/assets/logos/snowboarding-solid.svg" class="w-4 h-4 mt-1" alt="Club Water Polo icon">
-          <span class="ml-4 text-sm">Snowboarding</span>
+          <img src="~/assets/logos/snowboarding-solid.svg" alt="Snowboarding icon">
+          <span>Snowboarding</span>
         </div>
       </div>
     </div>
@@ -267,7 +267,36 @@ export default {}
   @apply inline-flex flex-row items-center mb-3 text-sm text-gray-700;
 }
 
+.skill > img {
+  @apply w-4 h-4;
+}
+
+.skill > span {
+  @apply ml-4 text-sm;
+}
+
 .hobby {
+  @apply inline-flex flex-row items-center mb-3 text-sm text-gray-700;
+}
+
+.hobby > img {
+  @apply w-4 h-4;
+}
+
+.hobby > span {
+  @apply ml-4 text-sm;
+}
+
+.multilinehobby {
   @apply inline-flex flex-row mb-3 text-sm text-gray-700;
+}
+
+.multilinehobby > img {
+  margin-top: 2px;
+  @apply w-4 h-4;
+}
+
+.multilinehobby > span {
+  @apply ml-4 text-sm;
 }
 </style>

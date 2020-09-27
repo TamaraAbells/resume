@@ -28,7 +28,7 @@ body.legal.landscape  .sheet { width: 357mm; height: 215mm }
 
 /** For screen preview **/
 @media screen {
-  body { background: #e0e0e0 }
+  body { background: #CBD5E0 }
   .sheet {
     background: white;
     box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
