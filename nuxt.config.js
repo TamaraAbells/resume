@@ -22,7 +22,7 @@ export default {
     }
   },
 
-  css: ['@/assets/css/paper.css', '@/assets/css/inter/inter.css'],
+  css: ['@/assets/css/inter/inter.css', '@/assets/css/paper.css', '@/assets/css/main.css'],
 
   loading: { color: '#fff' },
 

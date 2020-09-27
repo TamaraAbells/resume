@@ -1,5 +1,3 @@
 <template>
-  <section class="sheet">
-    <nuxt />
-  </section>
+  <nuxt />
 </template>

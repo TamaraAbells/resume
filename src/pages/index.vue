@@ -1,5 +1,5 @@
 <template>
-  <article>
+  <div class="sheet">
     <div class="grid grid-cols-12 gap-6">
       <div class="flex flex-row col-span-8">
         <img src="~/assets/headshot.jpg" class="object-cover w-32 h-32 border-2 border-indigo-600 rounded-full">
@@ -14,7 +14,7 @@
             <img src="~/assets/logos/github-brands.svg" class="w-4 h-4" alt="GitHub logo">
             <div class="ml-4">github.com/danbeneventano</div>
           </a>
-          <a class="altlink" href="https://www.danbeneventano.me" target="_blank">
+          <a class="altlink" href="https://danbeneventano.me" target="_blank">
             <img src="~/assets/logos/link-solid.svg" class="w-3 h-3" alt="Link icon">
             <div class="ml-5">danbeneventano.me</div>
           </a>
@@ -42,18 +42,18 @@
           class="flex flex-col"
         >
           <div class="flex flex-row items-end">
-            <a href="https://www.cometx.io" target="_blank">
+            <a href="https://cometx.io" target="_blank">
               <img src="~/assets/logos/cometx_logo.svg" class="h-4 m-1" alt="CometX logo">
             </a>
-            <span class="ml-3 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://www.cometx.io" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
+            <span class="ml-3 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
           </div>
           <span class="mt-1 text-sm italic font-semibold text-gray-700">Co-Founder & Lead Software Engineer</span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
-              <a href="https://www.cometx.io" target="_blank" class="hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
+              <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
             </p>
             <p class="mt-1">
-              <a href="https://www.cometx.io" target="_blank" class="hover:underline">CometX.io</a> uses Vue.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
+              <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> uses Vue.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
             </p>
             <p class="mt-1">
               I programmed the entire platform (frontend and backend), automated deployment, and grew a dedicated community. CometX.io is open source and the code is available on <a class="text-indigo-500 hover:underline" href="https://github.com/comet-app/cometx" target="_blank">our GitHub</a>.
@@ -247,7 +247,7 @@
         </div>
       </div>
     </div>
-  </article>
+  </div>
 </template>
 
 <script>
@@ -255,15 +255,6 @@ export default {}
 </script>
 
 <style>
-@media print {
-    body {
-        width: 21cm;
-        height: 29.7cm;
-        margin: 30mm 45mm 30mm 45mm;
-        /* change the margins as you want them to be. */
-   }
-}
-
 .link {
   @apply inline-flex flex-row items-center mb-3 text-sm text-gray-700 hover:underline;
 }
