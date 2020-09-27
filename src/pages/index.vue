@@ -224,8 +224,8 @@
         <div
           class="multilinehobby"
         >
-          <img src="~/assets/logos/keyboard-solid.svg" alt="Association for Computing Machinery (Mines Chapter) icon">
-          <span>Association for Computing Machinery (Mines Chapter)</span>
+          <img src="~/assets/logos/keyboard-solid.svg" alt="Association for Computing Machinery icon">
+          <span>Association for Computing Machinery</span>
         </div>
         <div
           class="hobby"
