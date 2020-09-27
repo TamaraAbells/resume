@@ -3,6 +3,10 @@ export default {
   srcDir: 'src/',
   components: true,
 
+  generate: {
+    dir: 'docs'
+  },
+
   head: {
     title: 'Dan Beneventano – Resume',
     meta: [
@@ -28,11 +32,6 @@ export default {
   ],
 
   eslint: {
-    cache: true
-  },
-
-  build: {
-    parallel: true,
     cache: true
   },
 
