@@ -102,13 +102,13 @@
           class="flex flex-col mt-3"
         >
           <span>
-            <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="font-medium">This Resume</a>
-            <span class="ml-1 text-xs text-gray-700">September 2020 &middot; <a href="https://resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
+            <a href="https://github.com/danbeneventano/resume" target="_blank" class="font-medium">This Resume</a>
+            <span class="ml-1 text-xs text-gray-700">September 2020 &middot; <a href="https://resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/danbeneventano/resume" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
           </span>
           <span class="mt-1 text-sm italic text-gray-700">This resume is actually a website!</span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
-              In order to exercise my design skills and create a great resume, I programmed this resume as a website using Vue.js and TailwindCSS. The resume is available online at <a href="https://resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">danbeneventano.me</a>, and is open source on <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">GitHub</a>!
+              In order to exercise my design skills and create a great resume, I programmed this resume as a website using Vue.js and TailwindCSS. The resume is available online at <a href="https://resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">danbeneventano.me</a>, and is open source on <a href="https://github.com/danbeneventano/resume" target="_blank" class="text-indigo-600 hover:underline">GitHub</a>!
             </p>
           </div>
         </div>
