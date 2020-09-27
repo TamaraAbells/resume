@@ -56,7 +56,7 @@
               <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> uses Vue.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
             </p>
             <p class="mt-1">
-              I programmed the entire platform (frontend and backend), automated deployment, and grew a dedicated community. <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> is open source and the code is available on <a class="text-indigo-500 hover:underline" href="https://github.com/comet-app/cometx" target="_blank">our GitHub</a>.
+              I programmed the entire <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> platform (frontend and backend), automated deployment, and grew a dedicated community. <a href="https://cometx.io" target="_blank" class="hover:underline">CometX.io</a> is open source and the code is available on <a class="text-indigo-500 hover:underline" href="https://github.com/comet-app/cometx" target="_blank">our GitHub</a>.
             </p>
           </div>
         </div>
