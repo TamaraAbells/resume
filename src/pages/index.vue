@@ -4,7 +4,7 @@
       <div class="flex flex-row col-span-8">
         <img src="~/assets/headshot.jpg" class="object-cover w-32 h-32 border-2 border-indigo-600 rounded-full">
         <div class="flex flex-col ml-12">
-          <div class="text-2xl font-medium">
+          <div class="text-2xl font-semibold">
             Dan Beneventano
           </div>
           <div class="mb-1 text-gray-700 text-md">
@@ -65,7 +65,7 @@
           class="flex flex-col mt-3"
         >
           <span>
-            <span class="font-medium">Freelance Java Developer & System Administrator</span>
+            <span class="font-semibold">Freelance Java Developer & System Administrator</span>
             <span class="ml-1 text-xs text-gray-700">2014 - 2018</span>
           </span>
           <div class="mt-1 text-sm text-gray-700">
@@ -84,7 +84,7 @@
           class="flex flex-col"
         >
           <span>
-            <a href="https://devpost.com/software/hand-of-god-tdjxr8" target="_blank" class="font-medium">Hand of God</a>
+            <a href="https://devpost.com/software/hand-of-god-tdjxr8" target="_blank" class="font-semibold">Hand of God</a>
             <span class="ml-1 text-xs text-gray-700">February 2020 &middot; <a href="https://devpost.com/software/hand-of-god-tdjxr8" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/The-Hand-of-God" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
           </span>
           <span class="mt-1 text-sm italic text-gray-700">Built at HackCU 2020 – Second place winner</span>
@@ -102,7 +102,7 @@
           class="flex flex-col mt-3"
         >
           <span>
-            <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="font-medium">This Resume</a>
+            <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="font-semibold">This Resume</a>
             <span class="ml-1 text-xs text-gray-700">September 2020 &middot; <a href="https://resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/danbeneventano/resume.danbeneventano.me" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></span>
           </span>
           <span class="mt-1 text-sm italic text-gray-700">This resume is actually a website!</span>
@@ -136,7 +136,7 @@
             GPA: 3.5/4.0 &middot; Computer Science GPA: 4.0/4.0
           </div>
           <div class="mt-1 text-sm text-gray-700">
-            Currently enrolled in <span class="font-medium">Software Engineering</span> (CSCI306) and <span class="font-medium">Discrete Math</span> (CSCI358)
+            Currently enrolled in <span class="font-semibold">Software Engineering</span> (CSCI306) and <span class="font-semibold">Discrete Math</span> (CSCI358)
           </div>
         </div>
       </div>
