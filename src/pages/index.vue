@@ -1,5 +1,5 @@
 <template>
-  <div class="sheet">
+  <main class="sheet">
     <div class="grid grid-cols-12 gap-6">
       <div class="flex flex-row col-span-8">
         <img src="~/assets/headshot.webp" alt="Headshot Photo" class="object-cover w-32 h-32 border-2 border-indigo-600 rounded-full">
@@ -247,7 +247,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>

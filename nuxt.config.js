@@ -25,6 +25,9 @@ export default {
     ],
     bodyAttrs: {
       class: 'letter'
+    },
+    htmlAttrs: {
+      lang: 'en'
     }
   },
 
