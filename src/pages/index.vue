@@ -47,7 +47,7 @@
             </a>
             <span class="ml-3 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">GitHub</a></span>
           </div>
-          <span class="mt-1 text-sm italic font-semibold text-gray-700">Co-Founder & Lead Software Engineer</span>
+          <span class="mt-1 font-medium">Co-Founder & Lead Software Engineer</span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
               <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
