@@ -43,11 +43,13 @@
         >
           <div class="flex flex-row items-end">
             <a href="https://cometx.io" target="_blank" rel="noopener">
-              <img src="~/assets/logos/cometx_logo.svg" class="h-4 m-1" alt="CometX logo">
+              <img src="~/assets/logos/cometx_logo.svg" class="h-5" alt="CometX logo">
             </a>
-            <span class="ml-3 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">GitHub</a></span>
           </div>
-          <span class="mt-1 font-medium">Co-Founder & Lead Software Engineer</span>
+          <span class="mt-2">
+            <span class="font-medium">Co-Founder & Lead Software Engineer</span>
+            <span class="ml-1 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">GitHub</a></span>
+          </span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
               <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
@@ -66,7 +68,7 @@
         >
           <span>
             <span class="font-medium">Freelance Java Developer & System Administrator</span>
-            <span class="ml-1 text-xs text-gray-700">2014 - 2018</span>
+            <span class="ml-1 text-xs text-gray-700">2014 – 2018</span>
           </span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
