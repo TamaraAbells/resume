@@ -126,10 +126,10 @@
               <img src="~/assets/logos/mines.png" class="h-10" alt="Colorado School of Mines logo">
             </a>
           </div>
-          <div class="mt-3 text-sm font-semibold">
+          <div class="mt-3 text-sm font-medium">
             Colorado School of Mines <span class="ml-1 text-xs font-normal text-gray-700">Golden, CO</span>
           </div>
-          <div class="mt-1 text-sm font-semibold">
+          <div class="mt-1 text-sm font-medium">
             B.S. Computer Science &middot; Graduating May 2022
           </div>
           <div class="mt-1 text-sm text-gray-700">
