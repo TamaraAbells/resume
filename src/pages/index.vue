@@ -140,6 +140,9 @@
           <div class="mt-1 text-sm text-gray-700">
             Currently enrolled in <span class="font-medium">Software Engineering</span> (CSCI306) and <span class="font-medium">Discrete Math</span> (CSCI358)
           </div>
+          <div class="mt-1 text-sm text-gray-700">
+            Mines is ranked <a href="https://money.com/best-engineering-colleges/" target="_blank" rel="noopener" class="text-indigo-500 hover:underline">#4 Engineering college in US</a> by Money Magazine (10/20)
+          </div>
         </div>
       </div>
 
