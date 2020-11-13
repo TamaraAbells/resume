@@ -48,17 +48,17 @@
           </div>
           <span class="mt-2">
             <span class="font-medium">Co-Founder & Lead Software Engineer</span>
-            <span class="ml-1 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app/cometx" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">GitHub</a></span>
+            <span class="ml-1 text-xs text-gray-700">July 2019 – Present &middot; <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">Link</a> &middot; <a href="https://github.com/comet-app" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">GitHub</a></span>
           </span>
           <div class="mt-1 text-sm text-gray-700">
             <p>
-              <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
+              <a href="https://cometx.io" target="_blank" rel="noopener" class="text-indigo-500 hover:underline">CometX.io</a> is a new and growing platform for creating online communities and sharing posts and comments. CometX launched in August 2020, and has already amassed over 500 daily users.
             </p>
             <p class="mt-1">
-              <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> uses Vue.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
+              <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX</a> uses React.js in the frontend, Node.js, GraphQL and SQL in the backend, and Docker for deployment.
             </p>
             <p class="mt-1">
-              I programmed the entire <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> platform (frontend and backend), automated deployment, and grew a dedicated community. <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX.io</a> is open source and the code is available on <a class="text-indigo-600 hover:underline" href="https://github.com/comet-app/cometx" target="_blank" rel="noopener">our GitHub</a>.
+              I programmed the entire <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX</a> platform (frontend and backend), automated deployment, and grew a dedicated community. <a href="https://cometx.io" target="_blank" rel="noopener" class="hover:underline">CometX</a> is open source and the code is available on <a class="text-indigo-600 hover:underline" href="https://github.com/comet-app" target="_blank" rel="noopener">our GitHub</a>.
             </p>
           </div>
         </div>
@@ -162,6 +162,12 @@
           >
             <img src="~/assets/logos/code-solid.svg" alt="HTML/CSS icon">
             <span>HTML/CSS</span>
+          </div>
+          <div
+            class="skill"
+          >
+            <img src="~/assets/logos/react.svg" alt="React.js logo">
+            <span>React.js</span>
           </div>
           <div
             class="skill"
